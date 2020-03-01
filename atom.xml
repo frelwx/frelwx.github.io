@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frelwx.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-01T06:23:20.784Z</updated>
+    <updated>2020-03-01T06:26:25.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://frelwx.github.io"/>
     <link rel="self" href="https://frelwx.github.io/atom.xml"/>
@@ -16,12 +16,14 @@
         <link href="https://frelwx.github.io/post/test/">
         </link>
         <updated>2020-03-01T05:35:20.000Z</updated>
-        <content type="html"><![CDATA[<p>##this is my first blog<br>
-I don't konw what to write..........</p>
+        <content type="html"><![CDATA[<p>##this is my first blog</p>
+<p>I don't konw what to write..........</p>
 <blockquote>
 <p>233<br>
 <img src="https://frelwx.github.io/post-images/1583041013746.jpg" alt="" loading="lazy"></p>
 </blockquote>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 ]]></content>
     </entry>
     <entry>
