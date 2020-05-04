@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frelwx.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-11T06:57:25.160Z</updated>
+    <updated>2020-05-04T12:50:28.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://frelwx.github.io"/>
     <link rel="self" href="https://frelwx.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://frelwx.github.io/images/avatar.png</logo>
     <icon>https://frelwx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[5/4]]></title>
+        <id>https://frelwx.github.io/post/54/</id>
+        <link href="https://frelwx.github.io/post/54/">
+        </link>
+        <updated>2020-05-04T12:49:38.000Z</updated>
+        <content type="html"><![CDATA[<p>曾经的人类茹毛饮血，并不觉得有什么不对，直到掌握了火。之后的人类再看到茹毛饮血的同类就感到难以接受了。<br>
+今天的人类屠畜而食，奉行跨物种大仁爱的动物保护组织起来抗议，可这对于大众来说终归是胡闹。这个时代，人类屠畜吃肉就是正义的，就是中乎礼的。<br>
+如果未来人类能够利用生物技术在工厂大规模生产肉类而不需要屠宰动物体，而且人类对生物界的防控能力达到较高水平，那么就会有越来越多的人认可“跨物种仁爱”，今天的动物屠宰在未来人的眼中可能也会像“茹毛饮血”一样，相当于他们，我们是野蛮人。<br>
+说到底，为什么要把 生存与超越 截然对立看待呢？<br>
+生存是超越的基础，超越是生存的方向。一方面，捍卫生存就是为超越打基础，不生存就无所谓超越。另一方面，只有生存不求超越，也是对生存的辜负，必将反过来威胁生存。</p>
+<p>---建模后无意所见神评<br>
+--人类的悲欢并不相同，我只是觉得他们吵闹</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/18]]></title>
+        <id>https://frelwx.github.io/post/418/</id>
+        <link href="https://frelwx.github.io/post/418/">
+        </link>
+        <updated>2020-04-18T01:43:39.000Z</updated>
+        <content type="html"><![CDATA[<p>业精于勤荒于嬉<br>
+行成于思毁于随</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/17]]></title>
+        <id>https://frelwx.github.io/post/417/</id>
+        <link href="https://frelwx.github.io/post/417/">
+        </link>
+        <updated>2020-04-17T07:03:56.000Z</updated>
+        <content type="html"><![CDATA[<p>人类的底线，无监督的学习<br>
+是创新的根本来源，是人类区别于猫狗的独有特征，动物的无监督学习非常弱。</p>
+<p>生成对抗网络文章</p>
+<p>当创新的底线被突破，人类还有情感<br>
+《情感式学习》</p>
+<figure data-type="image" tabindex="1"><img src="https://frelwx.github.io/post-images/1587109328162.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/11]]></title>
+        <id>https://frelwx.github.io/post/411/</id>
+        <link href="https://frelwx.github.io/post/411/">
+        </link>
+        <updated>2020-04-11T06:58:33.000Z</updated>
+        <content type="html"><![CDATA[<p>让我带兄弟们再冲一次吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[physics_discuss]]></title>
         <id>https://frelwx.github.io/post/physics_discuss/</id>
@@ -213,39 +261,6 @@ s76,-59,76,-59s76,-60,76,-60z M1001 80H40000v40H1012z'/></svg></span></span></sp
 <p>233<br>
 <img src="https://frelwx.github.io/post-images/1583041013746.jpg" alt="" loading="lazy"></p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://frelwx.github.io/post/hello-gridea/</id>
-        <link href="https://frelwx.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~<br>
-233</p>
 ]]></content>
     </entry>
 </feed>
